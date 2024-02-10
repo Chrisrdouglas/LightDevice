@@ -1,0 +1,16 @@
+{
+    "start_color": "green",
+	"light_threshold": 1000,
+    "loop_cycle_time": 0.05,
+    "running_average": {
+        "window_size": 10,
+        "threshold": 40.0
+    },
+    "rainbow": {
+        "cycle_time": 0.3
+    },
+	"encoder": {
+		"max_position": 20,
+		"start_position": 20
+	}
+}
